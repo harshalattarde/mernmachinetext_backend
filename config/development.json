@@ -1,0 +1,16 @@
+{
+    "db": {
+      "connection-string": "mongodb://127.0.0.1:27017/mernmachinetestBackend"
+    },
+    "hostName": {
+      "connection-string": "http://192.168.31.126:4000"
+    },
+    "port": {
+      "serverPort": "4000"
+    },
+    "jwt":{
+      "TOKEN_SECRET":"be0584f8f75049c215585477362493e8f7c5e4bf5ca70203c80844a91912d83269304beee1af6601a34c06d4166b2b323ad11917348edf11a53253bc521cc32c"
+    }
+   
+  }
+  
